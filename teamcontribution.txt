@@ -1,0 +1,30 @@
+# Week 12
+# Don Yang
+# CSCI 2461-70
+#Team contribution
+
+Our team is doing Web Server using Apache, our team name is called N-Arctica.
+We have 5 members, the member names and their responsibilities are:
+	Vang - research
+	Kao - documentation
+	Don - testing
+	Rony - Support
+	Jorge - Changes roles as needed
+
+We have a Github project located at:
+https://github.com/taimaishuze/n-arctica-web-server/projects/1
+Here you can find all our resources we've been sharing and using along with steps and tasks that need to be done.
+Also, we have a group chat on Signal.
+
+I've manage to make a web server with my Raspberry PI at home, you can visit the link at:
+http://linuxproject.ddns.net/
+
+Although we managed to get a web server up we still have alot of testing and documentation to do.
+I look forward to getting more involved and learning more.
+
+
+
+
+
+
+
